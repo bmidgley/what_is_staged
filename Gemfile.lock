@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    tty-tree (0.3.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  tty-tree
+
+BUNDLED WITH
+   1.16.6
