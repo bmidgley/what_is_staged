@@ -12,4 +12,5 @@ Gem::Specification.new do |s|
   ]
   s.executables << 'what_is_staged'
   s.license       = 'MIT'
+  s.add_dependency "tty-tree", "~> 0.3.0"
 end
